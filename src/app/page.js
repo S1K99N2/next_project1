@@ -1,8 +1,10 @@
+import Link from "next/link";
 
 export default function page(){
   return(
-    <>
-      <h1>hello niraj how r u</h1>
-    </>
+    <div>
+      <h1>this is Next js page</h1>
+      
+    </div>
   )
 }

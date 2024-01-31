@@ -10,3 +10,11 @@ body{
   padding-top: 2rem;
   text-transform: capitalize;
 }
+.list{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+ul li Link{
+  text-decoration: none;
+}
